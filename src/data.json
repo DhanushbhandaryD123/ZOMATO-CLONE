@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name": "The Burger Club",
+    "rating": 4.2,
+    "cuisine": "Burger",
+    "price": 250,
+    "distance": "1.5 km",
+    "image": "/images/burger2.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Pizza Hut",
+    "rating": 3.9,
+    "cuisine": "Pizza",
+    "price": 400,
+    "distance": "2.8 km",
+    "image": "/images/pizza 2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Biryani Blues",
+    "rating": 4.5,
+    "cuisine": "Biryani",
+    "price": 350,
+    "distance": "3.2 km",
+    "image": "/images/biriyani 2.avif"
+  },
+  {
+    "id": 4,
+    "name": "North Indian Delights",
+    "rating": 4.1,
+    "cuisine": "North Indian",
+    "price": 500,
+    "distance": "4.0 km",
+    "image": "/images/north indian.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Pasta Street",
+    "rating": 4.3,
+    "cuisine": "Italian",
+    "price": 450,
+    "distance": "2.2 km",
+    "image": "/images/pasta.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Sweet Treats",
+    "rating": 4.8,
+    "cuisine": "Desserts",
+    "price": 200,
+    "distance": "1.1 km",
+    "image": "/images/desret.jpg"
+  },
+  {
+    "id": 7,
+    "name": "The Sushi House",
+    "rating": 4.6,
+    "cuisine": "Japanese",
+    "price": 800,
+    "distance": "5.4 km",
+    "image": "/images/Sushi.jpg"
+  },
+  {
+    "id": 8,
+    "name": "South Kitchen",
+    "rating": 4.4,
+    "cuisine": "South Indian",
+    "price": 150,
+    "distance": "0.5 km",
+    "image": "/images/South food.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Wok Express",
+    "rating": 3.8,
+    "cuisine": "Chinese",
+    "price": 300,
+    "distance": "2.9 km",
+    "image": "/images/wordexpress.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Healthy Bites",
+    "rating": 4.2,
+    "cuisine": "Salads",
+    "price": 450,
+    "distance": "3.8 km",
+    "image": "/images/salads.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Cafe Coffee Day",
+    "rating": 4.0,
+    "cuisine": "Beverages",
+    "price": 350,
+    "distance": "1.2 km",
+    "image": "/images/cofee.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Steak House",
+    "rating": 4.7,
+    "cuisine": "Continental",
+    "price": 900,
+    "distance": "6.1 km",
+    "image": "/images/continental.jpg"
+  }
+]
