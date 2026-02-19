@@ -5,6 +5,8 @@ A high-performance, responsive restaurant discovery application built with **Rea
 ## 🚀 Live Demo
 VERCEL URL =  https://zomato-clone-b61e13ub8-dhanushs-projects-7fe60e30.vercel.app
 
+VERCEL URL = https://zomato-clone-zeta-six.vercel.app
+
 ## ✨ Core Features
 - **Real-Time Discovery:** Instantly search for restaurants by name or cuisine using a dynamic search bar.
 - **Advanced Filtering:** Multi-category filtering system (Rating 4.0+, Pizza, Burger, Biryani) powered by React state.
