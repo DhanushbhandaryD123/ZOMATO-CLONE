@@ -3,7 +3,7 @@
 A high-performance, responsive restaurant discovery application built with **React** and **Tailwind CSS**. This project was developed as a technical assessment to demonstrate modern frontend architecture, state-driven filtering, and professional UI/UX design.
 
 ## 🚀 Live Demo
-VERCEL URL =  https://zomato-clone-zeta-two.vercel.app
+VERCEL URL =  https://zomato-clone-zeta-six.vercel.app
 
 ## ✨ Core Features
 - **Real-Time Discovery:** Instantly search for restaurants by name or cuisine using a dynamic search bar.
